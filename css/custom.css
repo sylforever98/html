@@ -1,0 +1,22 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+body {font-family: SegoeUI,"微软雅黑",Helvetica,Arial,sans-serif; font-size:16px; background:#000; color:#eee;
+}
+h1, h2, h3, h4, h5, h6 {color: #fff;}
+.background-image-holder.tpimg{ background-size:auto !important;background-position: top center !important ; background-repeat:no-repeat !important; }
+.image-small{    max-height: 160px;}
+.image-bg.bg-light h1.idx-mb8{ color:rgba(255,255,255,.7);     font-family:SegoeUI,"微软雅黑",Helvetica,Arial,sans-serif; font-size:18px;}
+.feature p{ }
+.feature p.h70{ min-height:100px;}
+.cont-p  p.h70{ min-height:50px;}
+h1.large span{ font-size:14px}
+.feature.bordered{    }
+.pricing-table.emphasis .price span{ font-size:17px;}
+
+.emphasis h4{ margin:0; color:#fff; padding:6px 0; font-size:20px;}
+section.emphasis,.pricing-table.emphasis{    background: #fb4e58;}
+.parallax > .background-image-holder.bgimg{ top:-25vh !important;     height: 100% !important;}
+.minh .feature { min-height:470px;}
+
+.boximg .cast-shadow{ box-shadow:none !important}
+.fade-3-4{ color:#fb4e58; opacity:.9}
+.bg-secondary{ background:#222;}
